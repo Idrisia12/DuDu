@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Bootstrapped Webpage of Nilingua. A language Learning app for everybody in Africa and the World at Large.
 
 Template Name: Bootslander
 Template URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
